@@ -5,7 +5,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  assetPrefix: '/casefox.in/',
   basePath: '/casefox.in',
 }
 
