@@ -5,7 +5,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/casefox.in',
 }
 
 module.exports = nextConfig
