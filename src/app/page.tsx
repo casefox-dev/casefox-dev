@@ -119,7 +119,7 @@ export default function Home() {
               CaseFox uniquely blends <span className="font-semibold text-persian-green">advanced AI technology</span> with <span className="font-semibold text-burnt-sienna">deep legal expertise</span>, tailored specifically for the Indian legal system.
             </p>
             <p className="text-xl text-gray-600 dark:text-gray-300 leading-relaxed">
-              We don't just offer tools; we provide a <span className="font-semibold">transformative experience</span> that elevates your entire practice.
+              We don&apos;t just offer tools; we provide a <span className="font-semibold">transformative experience</span> that elevates your entire practice.
             </p>
           </div>
         </div>
@@ -132,7 +132,7 @@ export default function Home() {
             Experience the Future of Legal Practice Today
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto text-gray-600 dark:text-gray-300">
-            Don't let outdated methods hold you back. Embrace innovation and stay ahead of the curve with CaseFox.
+            Don&apos;t let outdated methods hold you back. Embrace innovation and stay ahead of the curve with CaseFox.
           </p>
           <Button variant="default" size="lg" className="bg-burnt-sienna hover:bg-sandy-brown" onClick={() => window.location.href = 'https://app.casefox.in'}>
             Get Started Now
@@ -143,7 +143,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-gray-200 dark:border-gray-700 py-8">
         <div className="container mx-auto px-6 text-center text-gray-600 dark:text-gray-400">
-          <p className="mb-2">Have Questions? We're Here to Help</p>
+          <p className="mb-2">Have Questions? We&apos;re Here to Help</p>
           <p className="font-medium">hello@casefox.in</p>
         </div>
       </footer>
