@@ -33,7 +33,7 @@ export default function Home() {
       {/* Navigation bar */}
       <nav className="sticky top-0 z-50 bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 py-4 shadow-md">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
-          <div className="h-8 flex items-center">
+          <div className="h-9 flex items-center">
             <img src="/images/logo_h.svg" alt="CaseFox Logo" className="h-full w-auto object-contain" />
           </div>
           <Button variant="default" className="bg-burnt-sienna hover:bg-sandy-brown" onClick={() => window.location.href = 'https://app.casefox.in'}>
