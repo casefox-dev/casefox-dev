@@ -36,7 +36,7 @@ export default function Home() {
           <div className="h-9 flex items-center">
             <img src="/images/logo_h.svg" alt="CaseFox Logo" className="h-full w-auto object-contain" />
           </div>
-          <Button variant="default" className="bg-destructive text-white hover:bg-destructive/75" onClick={() => window.location.href = 'https://app.casefox.in'}>
+          <Button variant="default" className="bg-destructive text-white text-md font-bold hover:bg-destructive/75" onClick={() => window.location.href = 'https://app.casefox.in'}>
             Get Started
           </Button>
         </div>
@@ -52,7 +52,7 @@ export default function Home() {
             Meet CaseFox: Your Intelligent Legal Partner. We empower Indian advocates and law practitioners to 
             <span className="font-semibold"> navigate complex legal landscapes effortlessly</span>, saving you time and enhancing the quality of your services.
           </p>
-          <Button variant="default" size="lg" className="bg-destructive text-white hover:bg-destructive/75" onClick={() => window.location.href = 'https://app.casefox.in'}>
+          <Button variant="default" size="lg" className="bg-destructive text-white text-md font-bold hover:bg-destructive/75" onClick={() => window.location.href = 'https://app.casefox.in'}>
             Experience the Future of Legal Practice
             <ArrowRight className="ml-2 h-4 w-4" />
           </Button>
@@ -156,7 +156,7 @@ export default function Home() {
           <p className="text-lg sm:text-xl mb-8 max-w-2xl mx-auto text-gray-600 dark:text-gray-300">
             Don&apos;t let outdated methods hold you back. Embrace innovation and stay ahead of the curve with CaseFox.
           </p>
-          <Button variant="default" size="lg" className="bg-destructive text-white hover:bg-destructive/75" onClick={() => window.location.href = 'https://app.casefox.in'}>
+          <Button variant="default" size="lg" className="bg-destructive text-white text-md font-bold hover:bg-destructive/75" onClick={() => window.location.href = 'https://app.casefox.in'}>
             Get Started Now
             <ArrowRight className="ml-2 h-4 w-4" />
           </Button>
